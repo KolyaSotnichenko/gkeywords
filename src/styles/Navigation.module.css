@@ -1,0 +1,12 @@
+.navLink{
+    cursor: pointer;
+    text-decoration: none;
+    
+}
+
+.activeLink {
+    cursor: pointer;
+    text-decoration: none;
+    color: #9c27b0;
+
+}

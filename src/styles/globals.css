@@ -14,3 +14,7 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.MuiDataGrid-columnSeparator--sideRight{
+  display: none !important;
+}

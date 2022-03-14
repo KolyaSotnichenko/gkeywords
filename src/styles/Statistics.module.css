@@ -1,0 +1,10 @@
+.dataRow {
+    color: '#8d98a9';
+    font-weight: 600; 
+    padding: 5; 
+    border-radius: 13;
+}
+
+.headerColumn {
+    background-color: #202938;
+}
