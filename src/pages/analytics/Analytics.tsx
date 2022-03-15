@@ -59,7 +59,7 @@ const Analytics: FC = () => {
       headerClassName: styles.headerColumn,
       headerAlign: 'center',
       sortable: false,
-      flex: 1,
+      width: 240,
       renderHeader: (params: GridColumnHeaderParams) => {
         return(
             <div>
@@ -76,7 +76,6 @@ const Analytics: FC = () => {
       headerClassName: styles.headerColumn,
       headerAlign: 'center', 
       align: 'center',
-      flex: 1,
       renderHeader: (params: GridColumnHeaderParams) => {
         return(
             <div>
@@ -93,7 +92,6 @@ const Analytics: FC = () => {
       headerClassName: styles.headerColumn,
       headerAlign: 'center', 
       align: 'center',
-      flex: 1,
       renderHeader: (params: GridColumnHeaderParams) => {
         return(
             <div>
@@ -110,7 +108,6 @@ const Analytics: FC = () => {
       headerClassName: styles.headerColumn,
       headerAlign: 'center', 
       align: 'center',
-      flex: 1,
       renderHeader: (params: GridColumnHeaderParams) => {
         return(
             <div>
@@ -127,7 +124,6 @@ const Analytics: FC = () => {
       headerClassName: styles.headerColumn,
       headerAlign: 'center', 
       align: 'center',
-      flex: 1,
       renderHeader: (params: GridColumnHeaderParams) => {
         return(
             <div>
